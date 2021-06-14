@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/orders/60c5cd45fec3bf2bf8628816
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1lbmVnaGV0dGltYXRpYXNAZ21haWwuY29tIiwiaWQiOiI2MGM1Yzk5NGNlMWIzNTJjODAyYmNjNTQiLCJpYXQiOjE2MjM1NzU4MDQsImV4cCI6MTYyMzU3OTQwNH0.qnLjFwn8eJyH-yp5t8GiVMdi-EPWIT2SNolTuo9BRR4
+
+{
+    "companyName": "Editing",
+    "type": "ONLINE"
+}
+

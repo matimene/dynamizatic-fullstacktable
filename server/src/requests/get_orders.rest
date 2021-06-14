@@ -1,0 +1,5 @@
+GET http://localhost:3001/api/orders
+
+###
+
+GET http://localhost:3001/api/orders/60c5cc796788810c54090110

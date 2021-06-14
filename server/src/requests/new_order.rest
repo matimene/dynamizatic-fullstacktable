@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/orders
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3Q0QGdtYWlsLmNvbSIsImlkIjoiNjBjNjNhNWVhMzgxNzcyZTgwZjY0OTY1IiwiaWF0IjoxNjIzNjAzOTQ0fQ.LWUyLDXI9Kx6rm9a8EwGmCgvTpSkCXwre72y-K7g9yo
+
+{
+    "country": "Argentina",
+    "shipDate": "06/13/2021",
+    "companyName": "Otherside",
+    "type": "ONLINE"
+}
